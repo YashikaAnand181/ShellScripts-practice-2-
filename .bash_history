@@ -935,3 +935,26 @@ cd cat
 cat cat
 ls
 exit
+ls
+git init
+git remote -v
+git remote add origin https://github.com/YashikaAnand181/ShellScripts-practice-2-.git
+git remote -v
+git branch -M main
+git add .
+git status
+git add .
+git -f add .
+ls
+rm mat
+ls
+git add .
+git status
+git commit -m "added all files"
+git status
+git remote -v
+git push origin main
+git push -u origin main
+exit
+ls
+exit
